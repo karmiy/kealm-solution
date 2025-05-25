@@ -6,10 +6,10 @@
 
 ```bash
 # 1. 安装依赖
-npm install
+yarn
 
 # 2. 启动开发服务器
-npm run dev
+yarn dev
 
 # 3. 在浏览器中访问 http://localhost:5173
 ```
@@ -66,10 +66,10 @@ npm run dev
 
 ```bash
 # 构建生产版本
-npm run build
+yarn build
 
 # 预览构建结果
-npm run preview
+yarn preview
 ```
 
 ## 📚 相关资源
