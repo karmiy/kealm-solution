@@ -3,7 +3,6 @@
 以 Google 登录为例
 
 ## 流程
-![](imgs/2025-06-04-21-58-09.png)
 
 ```mermaid
 sequenceDiagram
